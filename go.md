@@ -14,7 +14,14 @@ https://www.golang-book.com/books/intro
 
 http://openmymind.net/The-Little-Go-Book/
 
-英文书，入门读物，每章附有习题可以练习
+英文书，入门读物
+
+## Learning Go
+
+https://www.miek.nl/go/
+
+每章附有习题可以练习
+
 
 ## Go 入门指南
 
