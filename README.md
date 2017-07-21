@@ -9,4 +9,4 @@
 
 # Content
 
-[go](go.md)
+[Go](go.md)
