@@ -2,21 +2,21 @@
 
 ## [Language Specification](https://golang.org/ref/spec) 
 
-go 的语法说明以及语言的组织结构 go，包含大量的细节解释和说明，值得通读一遍
+go 的语法说明以及语言的组织结构，包含大量的细节解释和说明，值得通读一遍
 
 ## [A Tour of Go](https://tour.golang.org/)  
 
-go 官方在线的教程，可执行代码，对 go 语言的执行和抒写有直观的演示，应该多练
+go 官方在线的教程，可执行代码，对 go 语言的执行和抒写有直观的演示，首次学习 go 的练习之地
 
 ## [Go wiki](https://github.com/golang/go/wiki)
 
-包含大量第三方的文章和书籍来对某个特定主题的原理和知识进行深入的解释和演示
+包含大量第三方的文章和书籍来对某个特定主题的原理进行深入的解释和演示
 
 ## [Blog](https://golang.org/blog/)
 
 对某些特定主题进行说明和演示，以及语言自身的特性说明
 
-# Book
+# 入门 Book
 
 ## [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
@@ -31,7 +31,6 @@ go 官方在线的教程，可执行代码，对 go 语言的执行和抒写有�
 有一定的原理性讲解，每章附有习题可以练习
 
 ## [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-
 
 ## [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 
@@ -52,11 +51,9 @@ Beego 作者写的，中文，除了 go 语言基础也涉及 Go web 编程。
 
 # 项目练习
 
-## project-based-learning
+## [project-based-learning](https://github.com/tuvttran/project-based-learning#go)
 
 包含完整教程的小项目练习
-
-https://github.com/tuvttran/project-based-learning#go
 
 
 # 标准库
