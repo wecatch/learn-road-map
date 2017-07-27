@@ -1,37 +1,41 @@
-# 入门
+# 官方教程
 
-## go 官方 tour
+## [Language Specification](https://golang.org/ref/spec) 
 
-https://tour.golang.org/welcome/1   
+go 的语法说明以及语言的组织结构 go，包含大量的细节解释和说明，值得通读一遍
 
-## An Introduction to Programming in Go
+## [A Tour of Go](https://tour.golang.org/)  
 
-https://www.golang-book.com/books/intro
+go 官方在线的教程，可执行代码，对 go 语言的执行和抒写有直观的演示，应该多练
+
+## [Go wiki](https://github.com/golang/go/wiki)
+
+包含大量第三方的文章和书籍来对某个特定主题的原理和知识进行深入的解释和演示
+
+## [Blog](https://golang.org/blog/)
+
+对某些特定主题进行说明和演示，以及语言自身的特性说明
+
+# Book
+
+## [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
 英文书，但是写的通俗易懂，入门非常合适
 
-## The Little Go Book
+## [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 
-http://openmymind.net/The-Little-Go-Book/
+英文书，入门读物，有深度有细节
 
-英文书，入门读物
+## [Learning Go](https://www.miek.nl/go/)
 
-## Learning Go
+有一定的原理性讲解，每章附有习题可以练习
 
-https://www.miek.nl/go/
-
-每章附有习题可以练习
+## [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 
 
-## Go 入门指南
-
-https://github.com/Unknwon/the-way-to-go_ZH_CN
-
-## build-web-application-with-golang
+## [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 
 Beego 作者写的，中文，除了 go 语言基础也涉及 Go web 编程。
-
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md
 
 
 # 实例练习
