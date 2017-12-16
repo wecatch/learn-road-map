@@ -28,6 +28,8 @@
 
 #### [Think Python](http://greenteapress.com/wp/think-python/)
 
+#### [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
 # Python 标准库
 
 - [Python 2](https://pymotw.com/2/)
@@ -50,6 +52,19 @@
 
 - [celery](celeryproject.org)
 - [rq](http://python-rq.org/)
+
+# Web server
+
+- wsgi
+- Werkzeug
+- tornado
+- gunicorn
+
+# coroutine
+
+- gevent
+- tornado
+- asyncio
 
 # Topic
 
@@ -97,10 +112,27 @@ Python 的变量声明和使用、基础的流程控制语句
 
 #### 文件 (File、IO)
 
+- file
+- StringIO
+- Image
+
 #### 上下文管理器 (Context manager)
 
 #### 模块和包 (Module、Package)
 
 #### 网络 (Network)
 
+- urlib
+- socket
+
+#### 序列化 (Serialization)
+
+- json
+- pickle
+
 #### 线程、进程、协程 (Thread、Process、Coroutine)
+
+- threading
+- multiprocess
+- future
+
