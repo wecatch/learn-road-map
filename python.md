@@ -26,9 +26,9 @@
 
 # 入门书籍和教程
 
-#### [Think Python](http://greenteapress.com/wp/think-python/)
-
-#### [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Think Python](http://greenteapress.com/wp/think-python/)
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Python Project Tutorial]https://tom-christie.github.io/articles/pypi/
 
 # Python 标准库
 
@@ -60,13 +60,13 @@
 - tornado
 - gunicorn
 
-# coroutine
+# Coroutine
 
 - gevent
 - tornado
 - asyncio
 
-# Topic
+# Programming Language Topic
 
 Python 的入门非常容易，一个有经验的程序员熟悉语法之后就可以上手写东西，但是 Python 自身的  Topic 确实也非常的多，我们从易到难依次列举学习和使用 Python 需要了解和深入的 Topic
 
