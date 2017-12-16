@@ -28,7 +28,7 @@
 
 - [Think Python](http://greenteapress.com/wp/think-python/)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
-- [Python Project Tutorial]https://tom-christie.github.io/articles/pypi/
+- [Python Project Tutorial](https://tom-christie.github.io/articles/pypi/) also [Packaging Tutorial](https://packaging.python.org/tutorials/)
 
 # Python 标准库
 
