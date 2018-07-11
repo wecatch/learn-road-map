@@ -16,6 +16,10 @@ go 官方在线的教程，可执行代码，对 go 语言的执行和抒写有�
 
 对某些特定主题进行说明和演示，以及语言自身的特性说明
 
+#### [Effective Go](https://golang.org/doc/effective_go.html)
+
+为新手 Gopher 准备的写出符合 Go 规范的程序指导
+
 # 入门书籍
 
 #### [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
@@ -51,6 +55,9 @@ Beego 作者写的，中文，除了 go 语言基础也涉及 Go web 编程。
 
 大量 go 基础示例
 
+#### [Go Recipes](https://book.douban.com/subject/26918278/)
+
+针对特定问题提供特定解决方案
 
 # 项目练习
 
@@ -58,8 +65,18 @@ Beego 作者写的，中文，除了 go 语言基础也涉及 Go web 编程。
 
 包含完整教程的小项目练习
 
+# web 相关
+
+- https://golang.org/pkg/net/http
+- [Go Web Programming](https://book.douban.com/subject/26340005/)
+
+# 数据库相关
+
+- [Go SQL Tutorial](http://go-database-sql.org/overview.html)
+
 # 其他资源
 
 - https://github.com/dariubs/GoBooks go 书籍
 - https://golang.org/doc/effective_go.html 官方 effective go
 - https://github.com/golang/go/wiki/Learn 官方 learn wiki
+
