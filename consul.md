@@ -42,4 +42,3 @@ Consul API 介绍
 
 - [Guide](https://github.com/hashicorp/consul-template)
 - [Example](https://github.com/hashicorp/consul-template/tree/master/examples)
-- 
